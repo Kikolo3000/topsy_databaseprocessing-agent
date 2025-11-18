@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/a-00082800-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	042, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 11 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview tops. Subject zero four two. The activity has been previously described. Here's your first photo. And your time begins now.
+S: So it's an old american-style photo of a man and a woman. Looks like just about post-war, maybe Vietnam. And the man kind of looks like he's going away from the woman. And the woman's trying to make him stay. The woman's dressed in white. And she looks quite glammed up. She's got makeup on. Her hair's done up. And she's got a bracelet on. Her hand's on the man's far shoulder from her. They're almost kind of hugging. But the man's trying to get away. The man has a very angular face. He's got a hair that kind of doesn't quite go over his face but curls around and comes back to go over his face. His eyes are looking off into the distance. He looks like he might be leaving her. And she wants him to stay but not that much. Maybe there's another woman in the background behind the man. It might be on a picture or it might be through a window or something. But she looks like she's sitting on a bed or a chair.
+I: So there's a minute. You said a couple of times that he looks like he's trying to get away. What exactly about the photo led you to believe he was trying to get away? Anything in particular?
+S: The woman's arm trying to hold him back. And her kind of look towards him and his look kind of away. It looks like he's looking for somewhere to go other than there.
+I: Perfect. Here's your second photo. Once again you have a minute and your time begins now.
+S: It's a very abstract photo to begin with. But then there's a bridge going across what it looks like a river. And behind that some kind of mill. And at the bottom of the mill there's several men working carrying bags off a boat from the river. On the bridge there's a woman looking over the river maybe playing acoustics or something. And there's it it looks almost like a solar eclipse. Maybe there's kind of like you can see the ray of the sunlight. But there's a darker object in front of the sun that's blocking the main kind of lightness of the sun. And it then most of the image is shaded kind of a black with white lower down on every object. So on the bridge the top top bit's black and the bottom bit's white. The mill's quite tall. It's several stories tall. It's got a little outhouse to the side of it and some windows on the outhouse and some windows on the top of top floor but no other windows. The roof is angles angled. And there's tiles on the bottom side house.
+I: There's a minute. Thank you. No follow up questions. Here's your third photo. And your time begins now.
+S: It's a photo of a farm. There's two women in the photo, a man and a horse. And in the background there is a house. And well it's like a warehouse. The farm has got neat rows of crop in it. And there's also another horse in the background with another man tending to the horse. The horse closest is white. And it's got a harness on. And the man is shirtless. He looks quite toned. He looks like he's holding back the horse or guiding the horse around the field. And his arm is out to the side as if it's throwing seeds onto the field. The woman closest on the left side of the image is holding two books. She's dressed in a shirt and a skirt. Her hair's tied in a ponytail. And she's looking across to the right of the image. On the right of the image slightly behind her. The woman on the left isn't looking at this one. But there's another woman who is leaning against a tree. She has a white kind of
+I: There's a minute. And I have no follow up questions. Thank you very much.

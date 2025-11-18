@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/a-00082821-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	065, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 14 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview TOPSY subject zero six five. Activity has been previously described. Here's your first photo. And your time begins now.
+S: In this photo I see a man with slightly curly hair at the front. And there's a woman who looks like she's trying to speak to him. I think in this photo they must have been arguing before. And she looks like she's trying to console him somehow. The woman has much darker hair than the man. And she's wearing a very light white shirt while the man is wearing I think maybe a yellow or a brown shirt. He looks angry or at least disconnected to the woman in this situation. They look like they're either at home or some kind of residential area because there's curtains in a window in the background. And there's another woman also. Or maybe they're actually out shopping. I'm not entirely sure. That could be a mannequin in the window. That would make a lot more sense. I think the woman's trying to convince the man of something. But there might be some kind of crisis in the situation between them. It looks like they might just be a wife and a husband arguing over some small
+I: So there's a minute. So good work. So you said that they looked like they may have just had an argument.
+S: Yeah.
+I: And that he looks disconnected. Exactly what gave you that idea?
+S: He is not looking at her. His his facial features look like he's not smiling or he's not really I dunno. He he doesn't look happy by any means. And she looks like she's trying to convince him. That's why her hand is like on his shoulder. And she's almost hugging him.
+I: All right perfect. We'll move on to the second photo. And your minute begins now.
+S: Okay in this picture it looks like there's a a farm or some kind of factory I think. There's a couple individuals standing at the bottom that look like they may be working. Or they might have just come back from a long day of work. There is I think a woman at the top like near the top of the photo. Not entirely sure what she's doing. But she if there's a river at the bottom of the photo it looks like she might be trying to jump off the bridge and commit suicide. I'm not really sure but that's dark. It looks like it's almost nighttime even though there's a sun. The entire image is very very dark and gloomy. So that makes me think that something not so ideal is happening in this picture. The tall building in the left side of the photo also looks kind of ominous. It almost causes a shadow in the picture. Even though you can't really see the shadow. Overall
+I: Okay here's a minute. So you said the woman looked like she may be thinking about jumping or trying to jump.
+S: Yeah.
+I: What about her gave you that impression?
+S: So the at the bottom of the picture like I think that's a river. And all these people look tired. Or they look like they've been working. And maybe some kind of poverty. I don't know. It reminds me of like the world war or something. But she looks like she might be coming from like maybe her household conditions or financial situation isn't so good. And she looks like she's trying to jump off. I I looked at the rest of the picture to kind of gauge what was happening to her.
+I: Alright perfect. And here is your third and final photo. And your minute begins now.
+S: In this picture I see a girl holding a couple books standing at the front of the image. In the back end you see a farm. There's a man and a horse and another woman who might be pregnant. I'm not really sure. It looks like a standard situation maybe from like the nineteen hundreds where people worked on farms a lot. But the girl in the front she looks very quiet. She looks almost shy or like very enclosed. I think she might actually be walking to school with the books in her hand. I think that would seem about right. But everyone else in the image are very like disconnected from her. She's at the front while they're all just doing other I guess like normal tasks, if you refer to that time period. In the back in this image I don't see much else. It's it looks very bright. It doesn't seem very like gloomy or dark. It looks positive.
+I: You said she looked like she may be going to school. And that she looked a little shy. What gave you those impressions?
+S: Her facial features are almost nonexistent. Like she's not smiling. She's not frowning or anything specific like that. It's just a very neutral face. So maybe she's focused on herself. And she's carrying books.
+I: Alright perfect. Thank you very much.

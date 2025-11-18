@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/a-00082770-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	012, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 4 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: TLI interview. Subject zero one two. The activity has been previously described. All right. So I'm gonna show you the first photo. And your time begins now.
+S: It's an older photo of two people a man and a woman. The man is looking off to the distance. The woman appears to be looking at him. She has her left arm around him. He's turned away from the woman. She's more facing him. There's a woman in the background that is sitting cross-legged. There's a window in to the right. There's a window directly behind the woman. It looks like a store that's directly behind the man where the woman is sitting. The the woman is wearing a bracelet on her left hand. She she's wearing a white shirt blouse. I guess the man is wearing what looks like a jacket, a collar jacket. It's a black and white photo. It looks drawn.
+I: There's your time. Thank you very much so I have no questions there okay. And with that we're gonna move right into the second photo.
+S: Okay.
+I: So photo two. Your time begins now.
+S: Okay it looks like it's a picture of a bridge with a woman leaning over it. Both of her hands are on the side of it. Underneath it appears there's a building with one man standing looking at I think four or five other men carrying crates. There's below the bridge as well is a body of water with a boat on it. There's a large building in the top left of it. It appears to be a drawing as well. And at the top right it's a sun. And you the the ray of the center going throughout the the photo. I don't know what else to say. There's no railing on the bridge. Well I mean it doesn't look like there's a railing on the bridge. Just the side of the bridge where she's standing. The man that's standing.
+I: That's your time okay. Once again I have no questions for you okay. So moving on into the final one minute. Your time begins now.
+S: Okay it it appears to be a picture of a farm. There's a woman holding two books. I guess off to the left of the photo. There's a man in the middle of the photo facing away from the the center I guess. And to his left is a white horse. In the far right is a woman leaning against a tree with a a bandana over her hair. The fields look plowed in the background. There's a couple buildings in the background. I the man doesn't have a shirt on. The woman in the right looks like she's wearing a dress. The woman on the left looks like she's wearing a shirt and a skirt. I can't see the bottom half of her though.
+I: The and that's your time okay alright. Thank you very much.

@@ -1,0 +1,25 @@
+@UTF8
+@PID:	11312/a-00082858-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	105, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 21 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview TOPSY subject one zero five. Activity has been described okay. And here's your first photo. And your time begins now.
+S: Okay so I see a man and a woman. And the the man is looking away. The woman is staring at the man. The woman's wearing a white shirt. The man's wearing can't really tell because it's black and white. And it looks like there's a window in the back. And I guess the woman has a something like a band around her arm. And looks like he's wearing a dress shirt. And looks like they're like some sort of like relationship like a love relationship. And I see a woman in the back as well.
+I: Good and that's your time. The only question I have is what what made you think they might be in a relationship?
+S: Well just the way like the woman's looking at the man how close they are, I guess.
+I: Sure yeah alright. And then your second photo is here. And your time begins now.
+S: So like initially this looks like a painting to me. And it's I see a woman. She's on a bridge. She's staring like to the water from the bridge. Looks like it's some sort of like overhead like passing. There's a boat that's about to go through. And looks like it's like a sunny day. And the area looks like it's not too like modern. Looks like some some sort of like rural area. And there's a couple people. Look like they're working. They're carrying some stuff on their like heads or sides. And some guy looks like he's like telling them what to do and ordering them. And this looks like some sort of barn barn or something rural and
+I: Good. That's your time I have no questions. And here's your last photo. And your time begins now.
+S: Okay so it's a farm and again some rural rural area. And yeah it looks like they're doing some sort of farmwork. And again looks like it's like some older time or some time without technology. Because there's a horse and not much equipment. And I don't know what the woman was really doing. Because she's just staring off. And she has a book in her hand. I can't really understand what that means. But yeah it just looks like it's like farmwork. And but there's no real reason for what the women are doing. And good. And that's your time. Good job.

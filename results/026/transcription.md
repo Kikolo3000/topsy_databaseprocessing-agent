@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/a-00082784-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	026, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 7 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview TOPSY subject zero two six activity previously described alright. Here is your first photo. And your time begins now.
+S: There's a man in the photo along with a lady. They both have dark-colored hair. They look sort of stressed. The lady she's wearing a white top. And the man is wearing a darker colored button-up shirt. The lady's hugging the man in a weird position. There's a little girl in the background. There's some curtains in the background. The the colors in the photo are very dull-looking. They're both looking in the same direction. The lady has curly updo in her hair. The man's hair is sort of curly as well. The lady's wearing a black hair tie around her wrist. And she has colored nails.
+I: So there's a minute. Thank you mhm here's your second photo. And once again the time begins now.
+S: This is a very dark colored photo. There's a bridge with a person on it. There looks like a sun in the background that's kind of covered by clouds. There are people under the bridge and a house under the bridge. There's a boat and some water. There are people standing on a dock. And somebody in the boat. There's a tall building in the background. Everybody looks like they're working. The clouds are very bunched-up and fluffy-looking. The houses are kind of dark and mysterious-looking. It looks like everybody's busy doing work. The waters look calm.
+I: Perfect. Thank you again. And here is your third and final photo. And your minute begins now.
+S: There are three people on a farm. There's a man with no shirt on and pants. He is walking with a horse down the field. There's an older-looking lady with a headscarf and a dress. And she's leaning up against a tree. There was a younger lady wearing a skirt and a sweater with a little bow on it. And she's holding books. She's looking off towards the bottom right corner of the picture. There are fields and farmhouses and trees. The sky is empty. Everybody looks relaxed and calm. They're just kind of doing their own thing. And there's no birds.
+I: Mhm there's your minutes. Thank you very much.

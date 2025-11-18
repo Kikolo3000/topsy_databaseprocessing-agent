@@ -1,0 +1,17 @@
+@UTF8
+@PID:	11312/a-00086637-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	191, audio
+@Comment:	no gems yet
+@Comment:	Batchalign 0.7.7-alpha.4, ASR Engine rev
+@End
+I: This is the topsy interview. One ninety one. Your first photo begins now.
+S: Here we have a lovely lady holding a book. It looks like or two books. And she is on what looks to be a farm. And there's lots of agriculture I guess going on. And there's a guy with a horse. And he's leading the horse out into the field. And there's another woman to the right leaning on a tree. And she seems to just be resting there. And she has her arms on her belly. So I don't know if that indicates anything if she's pregnant or not. And the woman in the front is looking to her left. And I don't think she's looking at the woman because she's in front of her. And it looks to be I don't know if it's cloudy out there. But it's a cloudy day outside lots of land out there. It looks like they already harvested.
+I: All right. Next photo.
+S: Here we have two people. They're upside down. Here there's a guy. He looks very concerned. And his this woman that's holding him. Looks like she's trying to prevent him from going to wherever he's trying to go. If it's like a fight or something like that. But she looks she's looking directly at him. And he's looking directly at whatever is in front of him. He's got a darker colored shirt. She's got a lighter colored shirt. She's got her hair done up. And he's got some nice curly hair too. There's also a woman in the background. Looks like it's behind a window. It's hard to tell. But there's also a third person back there. And and she's wearing a bracelet.
+I: Last photo.
+S: This one is quite dark. Looks like there's some guys working down on some sort of port. And there's a boat down on the water. And it looks like there's one two three four five guys loading up some sort of sacks or unloading sacks from or to the boat. And one guy is supervising them. And then there's a and house or factory on the port. And then above that there is a hill of some sort with some weird looking edges. And then a woman on top of that other hill in the background. Oh and then there's a building on top of that hill. Not sure what kind of building that is. And then the sun is shining. The rays are definitely shining across the whole land. And the woman she.

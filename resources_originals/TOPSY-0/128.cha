@@ -1,0 +1,151 @@
+@UTF8
+@PID:	11312/a-00082880-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	128, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 26 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+*INV:	this is the TLI interview TOPSY subject zero one two eight . 615_5135
+%wor:	this 615_855 is 855_935 the 935_1135 TLI 1135_1635 interview 1635_2075 TOPSY 2075_2635 subject 2635_3035 zero 3035_3555 one 3555_4115 two 4115_4635 eight 4635_5135 .
+*INV:	the activity has been described . 5495_7315
+%wor:	the 5495_5935 activity 5935_6315 has 6315_6635 been 6635_6815 described 6815_7315 .
+*INV:	here's your first photo . 7655_9195
+%wor:	here's 7655_8355 your 8355_8475 first 8475_8695 photo 8695_9195 .
+*INV:	and your minute begins now . 9555_10995
+%wor:	and 9555_9655 your 9655_9795 minute 9795_9955 begins 9955_10495 now 10495_10995 .
+@Bg:	embrace
+*PAR:	alright so there's a lady trying to hold back a friend or [/] or a partner from going somewhere . 11215_20815
+%wor:	alright 11215_11635 so 11635_11915 there's 11915_12415 a 12415_13035 lady 13035_14175 trying 14175_14915 to 14915_15075 hold 15075_15275 back 15275_15695 a 15695_16395 friend 16395_16635 or 16635_17095 or 17095_18075 a 18075_18655 partner 18655_18955 from 18955_19935 going 19935_20315 somewhere 20315_20815 .
+*PAR:	&-um and surprisingly there's a picture in the back . 21895_24695
+%wor:	um 21895_22195 and 22195_22295 surprisingly 22295_22695 there's 22695_23055 a 23055_23355 picture 23355_23975 in 23975_24115 the 24115_24195 back 24195_24695 .
+*PAR:	it's not specific . 24555_26015
+%wor:	it's 24555_25315 not 25315_25515 specific 25515_26015 .
+*PAR:	it's a window or it's a poster . 26555_28135
+%wor:	it's 26555_26635 a 26635_26755 window 26755_27075 or 27075_27395 it's 27395_27535 a 27535_27635 poster 27635_28135 .
+*PAR:	but it's of a girl wearing half her clothes I guess . 28445_32325
+%wor:	but 28445_28665 it's 28665_28885 of 28885_28985 a 28985_29145 girl 29145_29325 wearing 29325_29745 half 29745_31005 her 31005_31205 clothes 31205_31585 I 31585_31825 guess 31825_32325 .
+*PAR:	&-um and then there's a window beside that . 32645_36185
+%wor:	um 32645_33805 and 33805_34705 then 34705_34805 there's 34805_34965 a 34965_35085 window 35085_35265 beside 35265_35685 that 35685_36185 .
+*PAR:	so it might be a portrait . 36025_37025
+%wor:	so it 36025_36145 might 36145_36265 be 36265_36385 a 36385_36525 portrait 36525_37025 .
+*PAR:	and there's a window beside it &-um spin out of wood . 36985_40805
+%wor:	and 36985_37025 there's 37025_37465 a 37465_37565 window 37565_37765 beside 37765_38205 it 38205_38525 um 38525_39665 spin 39665_40005 out 40005_40165 of 40165_40305 wood 40305_40805 .
+*PAR:	looks like it's probably in the +//. 41065_43205
+%wor:	looks 41065_41365 like 41365_41645 it's 41645_42185 probably 42185_42525 in 42525_42745 the 42745_43205 +//.
+*PAR:	dunno but it's a long time ago , probably before the forties . 44865_47325
+%wor:	dunno 44865_44885 but 44885_45145 it's 45145_45285 a 45285_45405 long 45405_45565 time 45565_45785 ago 45785_46025 , probably 46025_46345 before 46345_46685 the 46685_46825 forties 46825_47325 .
+*PAR:	&-um he tends to have &-um brighter eyes than she does . 48605_53565
+%wor:	um 48605_49065 he 49065_50485 tends 50485_51065 to 51065_51225 have 51225_51625 um 51625_52365 brighter eyes 52365_52765 than 52765_52905 she 52905_53065 does 53065_53565 .
+*PAR:	she has darker eyes . 53425_54385
+%wor:	she 53425_53485 has 53485_53625 darker 53625_53885 eyes 53885_54385 .
+*PAR:	&-um she has a ribbon on her left arm , &-um a blouse and a skirt . 55505_63825
+%wor:	um 55505_55885 she 55885_57925 has 57925_58185 a 58185_58365 ribbon 58365_58585 on 58585_59105 her 59105_59365 left 59365_59825 arm 59825_60085 , um 60085_62025 a 62025_62745 blouse 62745_63025 and 63025_63165 a 63165_63325 skirt 63325_63825 .
+*PAR:	&-um the gentleman's wearing a shirt , a button-up shirt . 64685_68705
+%wor:	um 64685_64945 the 64945_65205 gentleman's 65205_65625 wearing 65625_66045 a 66045_67125 shirt 67125_67345 , a 67345_67885 buttonup 67885_68205 shirt 68205_68705 .
+*PAR:	&-um they're fairly attractive people . 69685_71425
+%wor:	um 69685_70205 they're 70205_70305 fairly 70305_70585 attractive 70585_70925 people 70925_71425 .
+@Eg:	embrace
+*INV:	there's your minute I have no follow up questions . 72165_75045
+%wor:	there's 72165_72525 your 72525_72685 minute 72685_72925 I 72925_73885 have 73885_74025 no 74025_74145 follow 74145_74405 up 74405_74545 questions 74545_75045 .
+*INV:	here's your second image . 75225_76325
+%wor:	here's 75225_75365 your 75365_75505 second 75505_75825 image 75825_76325 .
+*INV:	and your minute begins now . 76565_78005
+%wor:	and 76565_76645 your 76645_76825 minute 76825_77005 begins 77005_77505 now 77505_78005 .
+@Bg:	bridge
+*PAR:	&-uh there's a solar eclipse . 79225_80705
+%wor:	uh 79225_79525 there's 79525_79825 a 79825_80005 solar 80005_80205 eclipse 80205_80705 .
+*PAR:	&-uh it's a factory . 81505_85245
+%wor:	uh 81505_82185 it's 82185_84445 a 84445_84745 factory 84745_85245 .
+*PAR:	or there's a factory . 85685_86785
+%wor:	or 85685_85865 there's 85865_86185 a 86185_86285 factory 86285_86785 .
+*PAR:	there's a bridge . 86685_87345
+%wor:	there's 86685_86705 a 86705_86845 bridge 86845_87345 .
+*PAR:	somebody's leaning on the edge of the bridge . 87285_89525
+%wor:	somebody's 87285_87745 leaning 87745_88345 on 88345_88525 the 88525_88645 edge 88645_88805 of 88805_88905 the 88905_89025 bridge 89025_89525 .
+*PAR:	there are some men underneath that . 89635_92255
+%wor:	there 89635_90135 are 90135_90175 some 90175_90515 men 90515_90835 underneath 90835_91755 that 91755_92255 .
+*PAR:	besides the bridge there's a huge building . 93035_95335
+%wor:	besides 93035_93175 the 93175_93495 bridge 93495_93755 there's 93755_93955 a 93955_94155 huge 94155_94835 building 94835_95335 .
+*PAR:	looks like a barn . 95335_96095
+%wor:	looks 95335_95355 like 95355_95475 a 95475_95595 barn 95595_96095 .
+*PAR:	there's boats . 96695_97435
+%wor:	there's 96695_96935 boats 96935_97435 .
+*PAR:	and then mens are carrying things off the boats . 98315_100755
+%wor:	and 98315_98435 then 98435_98595 mens 98595_98855 are 98855_99015 carrying 99015_99375 things 99375_99815 off 99815_100075 the 100075_100255 boats 100255_100755 .
+*PAR:	they're going in <to the> [/] to the factory , it looks like . 100915_104875
+%wor:	they're 100915_101035 going 101035_101335 in 101335_101755 to 101755_101855 the 101855_102175 to 102175_103155 the 103155_103295 factory 103295_103775 , it 103775_104215 looks 104215_104375 like 104375_104875 .
+*PAR:	and there's a boat on the side . 104695_105895
+%wor:	and 104695_104735 there's 104735_104875 a 104875_105015 boat 105015_105155 on 105155_105275 the 105275_105395 side 105395_105895 .
+*PAR:	there's water underneath the bridge . 105835_107155
+%wor:	there's 105835_105915 water 105915_106215 underneath 106215_106515 the 106515_106655 bridge 106655_107155 .
+*PAR:	&-um the [/] the surrounding of the [/] the sun is still casting light . 107925_114665
+%wor:	um 107925_108325 the 108325_110285 the 110285_111305 surrounding 111305_111645 of 111645_111945 the 111945_112245 the 112245_112605 sun 112605_112925 is 112925_113325 still 113325_113665 casting 113665_114165 light 114165_114665 .
+*PAR:	but it's really dark . 114965_115885
+%wor:	but it's 114965_115165 really 115165_115385 dark 115385_115885 .
+*PAR:	and the [/] the [/] the bridge looks to me be made out of bricks or some type of solid +//. 116965_122465
+%wor:	and 116965_117065 the 117065_117385 the 117385_117805 the 117805_118265 bridge 118265_118485 looks 118485_118685 to 118685_118865 me 118865_119045 be 119045_119245 made 119245_119505 out 119505_119665 of 119665_119825 bricks 119825_120225 or 120225_121605 some 121605_121765 type 121765_121965 of 121965_122145 solid 122145_122465 +//.
+*PAR:	is [/] is not &-um wooden bridge . 122705_124445
+%wor:	is is 122705_122945 not 122945_123285 um 123285_123705 wooden 123705_123945 bridge 123945_124445 .
+*PAR:	it's a little more advanced . 125205_126265
+%wor:	it's 125205_125245 a 125245_125365 little 125365_125445 more 125445_125765 advanced 125765_126265 .
+*PAR:	&-um the building itself has three windows at the top . 127405_131525
+%wor:	um 127405_128125 the 128125_129165 building 129165_129585 itself 129585_129885 has 129885_130145 three 130145_130385 windows 130385_130725 at 130725_130905 the 130905_131025 top 131025_131525 .
+*PAR:	it's [/] it's at the top of +//. 131785_132705
+%wor:	it's 131785_131845 it's 131845_132105 at 132105_132405 the top 132405_132585 of 132585_132705 +//.
+*PAR:	it's not like a silo but I'm not sure what type of building it's +/. 132865_136665
+%wor:	it's 132865_132905 not 132905_133105 like 133105_133245 a 133245_133405 silo 133405_133845 but 133845_134105 I'm 134105_135065 not 135065_135265 sure 135265_135485 what 135485_135825 type 135825_135985 of 135985_136085 building 136085_136305 it's 136305_136665 +/.
+@Eg:	bridge
+*INV:	there's your minute . 136665_137485
+%wor:	there's 136665_136865 your 136865_136985 minute 136985_137485 .
+*INV:	thank you . 137325_138105
+%wor:	thank 137325_137605 you 137605_138105 .
+*INV:	here's your third and final photo . 138305_139865
+%wor:	here's 138305_138505 your 138505_138605 third 138605_138905 and 138905_139085 final 139085_139365 photo 139365_139865 .
+*INV:	and your minute begins now . 140425_141725
+%wor:	and 140425_140485 your 140485_140605 minute 140605_140745 begins 140745_141225 now 141225_141725 .
+@Bg:	farm
+*PAR:	<there's a> [/] there's a male &-um working on the field agriculture . 142495_149955
+%wor:	there's 142495_142855 a 142855_143235 there's 143235_143995 a 143995_144375 male 144375_144855 um 144855_146375 working 146375_148555 on 148555_148895 the 148895_149095 field 149095_149455 agriculture 149455_149955 .
+*PAR:	he has a horse that's pulling probably the +//. 151495_153995
+%wor:	he 151495_151695 has 151695_151815 a 151815_151975 horse 151975_152275 that's 152275_152595 pulling 152595_152995 probably 152995_153615 the 153615_153995 +//.
+*PAR:	I don't know what it's called . 154455_155335
+%wor:	I don't 154455_154535 know 154535_154615 what 154615_154715 it's 154715_154835 called 154835_155335 .
+*PAR:	but a thing that helps to make &-uh straight lines on the grass so that you can then plant your seeds . 155195_160275
+%wor:	but a 155195_155355 thing 155355_155555 that 155555_155735 helps 155735_156015 to 156015_156195 make 156195_156495 uh 156495_157275 straight 157275_157475 lines 157475_157835 on 157835_157975 the 157975_158095 grass 158095_158355 so 158355_158535 that 158535_158695 you 158695_158875 can 158875_159055 then 159055_159275 plant 159275_159615 your 159615_159775 seeds 159775_160275 .
+*PAR:	&-uh it's a white horse . 160915_162035
+%wor:	uh 160915_161115 it's 161115_161275 a 161275_161395 white 161395_161535 horse 161535_162035 .
+*PAR:	it has this harness that's attached . 162005_163885
+%wor:	it 162005_162205 has 162205_162505 this 162505_162725 harness 162725_163085 that's 163085_163385 attached 163385_163885 .
+*PAR:	and <there's a> [//] there's one lady on the right side . 164405_167685
+%wor:	and 164405_164445 there's 164445_164705 a 164705_165045 there's 165045_165565 one 165565_165745 lady 165745_165985 on 165985_166225 the 166225_166485 right 166485_167185 side 167185_167685 .
+*PAR:	she's leaning on our tree . 167765_168825
+%wor:	she's 167765_167825 leaning 167825_168005 on 168005_168185 our 168185_168325 tree 168325_168825 .
+*PAR:	&-uh the tree looks to be half-dead . 169185_170625
+%wor:	uh 169185_169285 the 169285_169365 tree 169365_169485 looks 169485_169705 to 169705_170005 be 170005_170125 halfdead 170125_170625 .
+*PAR:	she's pregnant . 171345_172045
+%wor:	she's 171345_171545 pregnant 171545_172045 .
+*PAR:	she seems to be pregnant . 172925_174025
+%wor:	she 172925_172965 seems 172965_173265 to 173265_173405 be 173405_173525 pregnant 173525_174025 .
+*PAR:	she's wearing a long one-piece clothes . 174625_177645
+%wor:	she's 174625_174645 wearing 174645_174885 a 174885_175105 long 175105_175505 onepiece 175505_177145 clothes 177145_177645 .
+*PAR:	&-um she's touching her belly . 179345_181685
+%wor:	um 179345_179385 she's 179385_179865 touching 179865_180965 her 180965_181185 belly 181185_181685 .
+*PAR:	&-um and then the male . 182425_184045
+%wor:	um 182425_183285 and then 183285_183405 the 183405_183545 male 183545_184045 .
+*PAR:	he's muscular , probably in his thirties . 183925_186605
+%wor:	he's 183925_184105 muscular 184105_184585 , probably 184585_185745 in 185745_185925 his 185925_186105 thirties 186105_186605 .
+*PAR:	&-uh from the back he looks seasoned . 186905_189505
+%wor:	uh 186905_188145 from 188145_188405 the 188405_188565 back 188565_188745 he 188745_188865 looks 188865_189005 seasoned 189005_189505 .
+*PAR:	&-um and then there is &-uh another a person , &-uh a girl female who's holding a book and that's looking elsewhere &-uh facing away from the man . 190265_199525
+%wor:	um 190265_190465 and 190465_190545 then 190545_190645 there 190645_190845 is 190845_191025 uh 191025_191485 another 191485_191865 a 191865_192905 person 192905_193245 , uh 193245_193785 a 193785_193965 girl 193965_194125 female 194125_194465 who's 194465_195205 holding 195205_195445 a 195445_195725 book 195725_195985 and 195985_196265 that's 196265_196425 looking 196425_196725 elsewhere 196725_197225 uh 197225_198005 facing 198005_198405 away 198405_198685 from 198685_198945 the 198945_199025 man 199025_199525 .
+*PAR:	&-um she has a two-piece +/. 199985_201225
+%wor:	um 199985_200265 she 200265_200485 has 200485_200685 a 200685_200805 twopiece 200805_201225 +/.
+@Eg:	farm
+*INV:	there's your minute perfect . 201445_202465
+%wor:	there's 201445_201625 your 201625_201765 minute 201765_201965 perfect 201965_202465 .
+*INV:	thank you very much . 232235_232735
+%wor:	thank you very much 232235_232735 .
+@End

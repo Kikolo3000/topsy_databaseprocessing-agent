@@ -1,0 +1,19 @@
+@UTF8
+@PID:	11312/a-00082803-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	045, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 11 November 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: TLI interview top c subject zero forty five. Activity has been described.
+S: Okay so it's a black and white photo of a woman hugging a man seems like romantically. Set maybe in the fifties or sixties. The woman's got curly hair. So does the male. The man seems to be looking up at something away from the woman. And the woman is looking at him. There is what seems to be a painting in the background of what looks like a woman in lingerie. There's a window in the setting. It they seem to be sitting on a bench of some kind. There are drapes on the window. The woman's wearing what might be a watch or a bracelet. The man is in a dress shirt. And the woman seems like she was in a blouse in the script. Okay so this looks like it's a picture of a woman standing over a bridge with water beneath it as well. It seems like it's a bridge in the city where there's a building behind her. There's men working behind her. And the sun is shining down on her. There seems to be some clouds. She is looking over the bridge into the water. Her hands are braced on the edge of the bridge. And she's leaning over it. The men seem like they're construction workers. They're carrying bags of maybe sand or cement or something. There's five workers and what seems like a supervisor unloading a boat that's docked in the water under the bridge. This picture seems like it's been put together as opposed to being something that's realistic. There's a woman leaning on a tree. She appears to be pregnant. She's got her hands folded on top of her belly. And she's looking into the distance. Then there's a picture of a barnhouse with some farmland. And a shirtless male walking a horse. There appear to be mountains in the background. A lake. Then there's another woman in the side totally separate from the other two characters. She seems like she might be a student. She's got books in her hands. She's dressed differently from the other two characters. Actually all three of them are dressed very differently from each other. And part of the terrain looks like it might

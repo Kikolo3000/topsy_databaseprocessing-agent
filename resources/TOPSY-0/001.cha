@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/a-00082759-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	001, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 31 October 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: I'm gonna show you three pictures. Well before I start I will record your number your top c zero zero one. And today is tenth of February twenty seventeen. So I'm gonna show you three pictures one after the other. When I give you each picture I want you to talk for one full minute about what you see in the picture. You can write a story. You can just describe the scene. But I want you to talk for one full minute right I won't interrupt that minute. And you have to keep talking for that minute. If you run dry. That's okay as well. But I will ask you questions only after that minute okay okay. So your minute starts now.
+S: So this is a photo of what looks to be a young-ish couple maybe in their thirties with the gentleman looking off into the distance with his no ring on her finger. So I'm gonna say girlfriend grabbing onto him. Looks as though that he's staring off into something quite tense. Very stern faced. And the woman is is also looking at him with what appears to be concern in her eyes. It's obviously an older photo maybe like forties or fifties. Looks like an old Hollywood movie. I'm not really sure what they would be looking at. But it it it almost seems as though he may be about to get into some sort of confrontation with another individual. There's not much going on in the background. It looks like a photo might be on the wall behind him with a window with some drapes behind the young woman.
+I: Okay. That's your minute. I'm stopping you there. Now you said he might be going on for a confrontation. What made you say that?
+S: So he's sort of got a a more he's leaning forward posture. And his his face and eyes are are clearly like locked in on something. And he just has sort of a stern look. And it's almost as though the female in the photo may be holding onto him trying to calm him down.
+I: Okay. That's great. Thank you very much so. This is your second picture. When your time starts now.
+S: Okay. So this looks like a it's a woman on a bridge staring down into what appears to be a river. The the sun is shining in the background. It's all black and white with some sort of industrial or agrarian structure in the background. Looks like a tall farm building almost. And there are men loading what looked like bags either into or out of a boat. I'm not a hundred percent certain the direction of the unloading.
+I: But it yeah it looks like they're unloading a boat and bringing them into this building.
+S: So I'm wondering if it's some sort of industrial operation. And yeah the woman is leaned forward with her hands on the end of the bridge. Either just stopping for a rest or contemplating life. It's not exactly clear what she's doing. But yeah that's that's about all I have for this photo. And there's some cloud cover.
+I: Okay. Just just a minute. Thank you. You said she may be contemplating life. What what made you say that?
+S: It's just again her stance. She's just sort of leaning over watching the water past sort of passively. And she's not dressed I mean I don't know the area it's from. But she's not dressed as if she was someone out for a jog who's catching her breath. So that's that's about it.
+I: Okay. Thank you. This is your third and final picture. And tell me what you see. Your time starts now.
+S: Very agrarian scene. There's a young man with a plow horse in the background working on a field with a farm. A farmhouse in the background or barn rather. There's a woman dressed in very I I dunno maybe turn of the century or older clothing possibly pregnant. It looks like her stomach's a little distended with her hands over her stomach. So she looks like she may be pregnant with her hair covered with with some sort of cloth. And in the foreground there is a woman dressed as if she's on her way to school. She's carrying two books and looking off into the distance. But everybody's sort of got a neutral expression. Yeah it it it looks like hard physical manual labor. The man is shirtless and clearly has worked worked the fields for a while as he's quite large. And yeah that's that's it. That's all I'm seeing in this photo.
+I: Okay stop. Thank you very much. That's it. Can we just switch it off.
+S: Yep.

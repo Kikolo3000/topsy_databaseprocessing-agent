@@ -1,0 +1,121 @@
+@UTF8
+@PID:	11312/a-00082705-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	008_30M, audio
+@Comment:	this file has been checked for ASR accuracy
+@Comment:	Batchalign 0.7.6-alpha.4, ASR Engine rev. Latest review 13 December 2024 by CMU AY.
+*INV:	this is the TLI interview topsy subject zero [/] zero eight activity has been described sorry . 535_5535
+%wor:	this 535_775 is 775_875 the 875_1035 TLI 1035_1395 interview 1395_1755 topsy 1755_2235 subject 2235_2535 zero 2535_2795 zero 2795_3115 eight 3115_3495 activity 3495_3875 has 3875_4215 been 4215_4395 described 4395_5035 sorry 5035_5535 .
+*INV:	zero [/] zero eight thirty month . 5775_7535
+%wor:	zero 5775_5935 zero 5935_6215 eight 6215_6495 thirty 6495_7035 month 7035_7535 .
+*INV:	follow up activity has been described . 7675_9595
+%wor:	follow up 7675_8115 activity 8115_8795 has 8795_8975 been 8975_9095 described 9095_9595 .
+*INV:	here's your first photo . 9795_10975
+%wor:	here's 9795_10175 your 10175_10275 first 10275_10475 photo 10475_10975 .
+*INV:	and your minute begins now . 11115_12575
+%wor:	and 11115_11395 your 11395_11495 minute 11495_11615 begins 11615_12075 now 12075_12575 .
+@Bg:	embrace
+*PAR:	man woman Italian bakery handkerchief . 13645_17705
+%wor:	man 13645_13845 woman 13845_14205 Italian 14205_14825 bakery 14825_17205 handkerchief 17205_17705 .
+*PAR:	t-shirt sweater . 20765_21685
+%wor:	tshirt 20765_21185 sweater 21185_21685 .
+*PAR:	eyes nose mouth cheeks forehead chest nostrils phalanges windowsiill . 24285_33645
+%wor:	eyes 24285_24645 nose 24645_25205 mouth 25205_25705 cheeks 25705_26345 forehead 26345_27125 chest 27125_28085 nostrils 28085_31785 phalanges 31785_33145 windowsiill 33145_33645 .
+*PAR:	is that one word or +/? 39525_40505
+%wor:	is 39525_39725 that one 39725_40065 word 40065_40325 or 40325_40505 +/?
+*INV:	I mean that counts . 40745_41625
+%wor:	I mean 40745_40925 that 40925_41125 counts 41125_41625 .
+*INV:	you don't have to use one word . 41545_42605
+%wor:	you 41545_41585 don't 41585_41765 have 41765_41845 to 41845_41885 use 41885_41965 one 41965_42105 word 42105_42605 .
+*INV:	you can just describe the photo to me as you see it . 42365_44525
+%wor:	you 42365_42385 can 42385_42505 just 42505_42665 describe 42665_42985 the 42985_43145 photo 43145_43345 to 43345_43525 me 43525_43625 as 43625_43765 you 43765_43865 see 43865_44025 it 44025_44525 .
+*PAR:	wood glass metal embrace . 44225_48865
+%wor:	wood 44225_44505 glass 44505_46065 metal 46065_48365 embrace 48365_48865 .
+*PAR:	distracted in love companionship . 53465_57385
+%wor:	distracted 53465_54085 in 54085_56445 love 56445_56885 companionship 56885_57385 .
+*PAR:	a background . 62825_65305
+%wor:	a 62825_64805 background 64805_65305 .
+*PAR:	woman in the background looking down . 65665_68045
+%wor:	woman 65665_65885 in 65885_66065 the 66065_66185 background 66185_66585 looking 66585_67545 down 67545_68045 .
+*PAR:	beauty . 70305_70805
+%wor:	beauty 70305_70805 .
+@Eg:	embrace
+*INV:	there's your minute . 70805_71505
+%wor:	there's 70805_70885 your 70885_71005 minute 71005_71505 .
+*INV:	here's your second photo . 71685_72825
+%wor:	here's 71685_71945 your 71945_72065 second 72065_72325 photo 72325_72825 .
+*INV:	and your minute begins now . 73245_74945
+%wor:	and 73245_73745 your 73745_73825 minute 73825_73985 begins 73985_74445 now 74445_74945 .
+@Bg:	bridge
+*PAR:	sun sunrise rays . 76485_79885
+%wor:	sun 76485_77705 sunrise 77705_79385 rays 79385_79885 .
+*PAR:	bridge water . 80785_81645
+%wor:	bridge 80785_81145 water 81145_81645 .
+*PAR:	suicide windows . 82185_84065
+%wor:	suicide 82185_83565 windows 83565_84065 .
+*PAR:	wood tower clouds . 85685_87605
+%wor:	wood 85685_86085 tower 86085_87105 clouds 87105_87605 .
+*PAR:	sky house labors coal mine concrete . 88565_94845
+%wor:	sky 88565_88905 house 88905_90325 labors 90325_92385 coal 92385_93945 mine 93945_94345 concrete 94345_94845 .
+*PAR:	medieval times . 98425_100245
+%wor:	medieval 98425_99745 times 99745_100245 .
+*PAR:	boat wooden boat . 101945_105445
+%wor:	boat 101945_102705 wooden 102705_104945 boat 104945_105445 .
+*PAR:	&-uh boss . 105785_106825
+%wor:	uh 105785_106325 boss 106325_106825 .
+*PAR:	evening time . 114645_115845
+%wor:	evening 114645_115345 time 115345_115845 .
+*PAR:	black and white . 117705_118925
+%wor:	black 117705_118265 and 118265_118425 white 118425_118925 .
+*PAR:	three houses . 120445_127185
+%wor:	three 120445_126685 houses 126685_127185 .
+*PAR:	a really tall tower roof . 128625_131685
+%wor:	a 128625_130325 really 130325_130445 tall 130445_130725 tower 130725_131185 roof 131185_131685 .
+*INV:	so there's your minute . 132545_133505
+%wor:	so 132545_132645 there's 132645_132905 your 132905_133005 minute 133005_133505 .
+*INV:	now you said suicide . 134285_135225
+%wor:	now 134285_134505 you 134505_134525 said 134525_134725 suicide 134725_135225 .
+*INV:	what about the photo made you think of suicide ? 135305_137065
+%wor:	what 135305_135545 about 135545_135685 the 135685_135845 photo 135845_136005 made 136005_136185 you 136185_136245 think 136245_136425 of 136425_136565 suicide 136565_137065 ?
+*PAR:	oh she's looking down over the bridge . 136825_139925
+%wor:	oh 136825_137125 she's 137125_137585 looking 137585_137765 down 137765_138145 over 138145_139245 the 139245_139425 bridge 139425_139925 .
+*PAR:	it looks like she's looking down [/] down into the river you know and +... 140525_143785
+%wor:	it 140525_140665 looks 140665_140825 like 140825_140985 she's 140985_141125 looking 141125_141325 down 141325_141605 down 141605_142245 into 142245_142925 the 142925_143085 river 143085_143285 you 143285_143465 know 143465_143625 and 143625_143785 +...
+*INV:	why did that make you think about suicide ? 143885_145645
+%wor:	why did 143885_144025 that 144025_144105 make 144105_144245 you 144245_144325 think 144325_144685 about 144685_145145 suicide 145145_145645 ?
+*PAR:	yeah it's like black and white and +... 145365_146905
+%wor:	yeah it's like 145365_145545 black 145545_145785 and 145785_145945 white 145945_146245 and 146245_146905 +...
+@Eg:	bridge
+*INV:	perfect . 147505_148005
+%wor:	perfect 147505_148005 .
+*INV:	alright here is your third and final photo . 148105_151765
+%wor:	alright 148105_149265 here 149265_149765 is 149765_150045 your 150045_150205 third 150205_150585 and 150585_150885 final 150885_151265 photo 151265_151765 .
+*INV:	and your minute begins now . 151845_153445
+%wor:	and 151845_151925 your 151925_152085 minute 152085_152265 begins 152265_152945 now 152945_153445 .
+@Bg:	farm
+*PAR:	pondering horse . 154615_155655
+%wor:	pondering 154615_155155 horse 155155_155655 .
+*PAR:	I'm trying to think of a word right now . 156615_161915
+%wor:	I'm 156615_160435 trying 160435_160655 to 160655_160695 think 160695_160815 of 160815_160995 a 160995_161035 word 161035_161175 right 161175_161415 now 161415_161915 .
+*PAR:	saddle crops . 161815_163555
+%wor:	saddle 161815_163055 crops 163055_163555 .
+*PAR:	field hills sea lake . 165075_167695
+%wor:	field 165075_165455 hills 165455_166635 sea 166635_167195 lake 167195_167695 .
+*PAR:	sky clouds dress tree farmers . 168365_173005
+%wor:	sky 168365_168685 clouds 168685_169305 dress 169305_171325 tree 171325_172505 farmers 172505_173005 .
+*PAR:	three houses . 178025_178865
+%wor:	three 178025_178365 houses 178365_178865 .
+*PAR:	&-uh bible book novel . 180705_185425
+%wor:	uh 180705_182245 bible 182245_184385 book 184385_184925 novel 184925_185425 .
+*PAR:	bush nostril nose lip size cheeks forehead ears head body breast &-uh back knees elbow . 188565_207225
+%wor:	bush 188565_188885 nostril 188885_191445 nose 191445_191865 lip 191865_193365 size 193365_193925 cheeks 193925_194805 forehead 194805_195385 ears 195385_196125 head 196125_196805 body 196805_198305 breast 198305_201045 uh 201045_202485 back 202485_205505 knees 205505_206725 elbow 206725_207225 .
+@Eg:	farm
+*PAR:	there's your minute . 239185_239985
+%wor:	there's 239185_239485 your minute 239485_239985 .
+*PAR:	no follow Ups we are all . 239485_239985
+%wor:	no follow Ups we are all 239485_239985 .
+@End

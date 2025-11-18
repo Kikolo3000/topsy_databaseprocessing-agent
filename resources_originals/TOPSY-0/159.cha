@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/a-00082908-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	159, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 3 December 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+*INV:	this is TOPSY participant one five nine for the TLI interview . 1965_6225
+%wor:	this 1965_2185 is 2185_2365 TOPSY 2365_3065 participant 3065_3605 one 3605_3965 five 3965_4285 nine 4285_4605 for 4605_4845 the 4845_5045 TLI 5045_5725 interview 5725_6225 .
+*INV:	so this is the first photo . 6985_8645
+%wor:	so 6985_7325 this 7325_7525 is 7525_7665 the 7665_7825 first 7825_8145 photo 8145_8645 .
+*INV:	so tell me what you see there . 9085_10705
+%wor:	so 9085_9345 tell 9345_9585 me 9585_9685 what 9685_9865 you 9865_9985 see 9985_10205 there 10205_10705 .
+@Bg:	farm
+*PAR:	okay &-uh I see a photo printed out on a standard &-uh page right . 12325_18265
+%wor:	okay 12325_12405 uh 12405_13025 I 13025_13145 see 13145_13465 a 13465_13825 photo 13825_14245 printed 14245_14665 out 14665_14945 on 14945_15265 a 15265_15665 standard 15665_16405 uh 16405_17285 page 17285_17765 right 17765_18265 .
+*PAR:	&-uh the photo is flipped horizontally so that the short side is facing up . 18755_23635
+%wor:	uh 18755_18995 the 18995_19475 photo 19475_20055 is 20055_20335 flipped 20335_20615 horizontally 20615_21355 so 21355_21735 that 21735_21935 the 21935_22155 short 22155_22455 side 22455_22715 is 22715_22875 facing 22875_23135 up 23135_23635 .
+*PAR:	the long side is facing &-uh lengthwise inside this photo &-uh which is a bunch of seems like dots . 23475_32015
+%wor:	the 23475_23515 long 23515_23755 side 23755_23955 is 23955_24115 facing 24115_24555 uh 24555_24995 lengthwise 24995_25555 inside 25555_26775 this 26775_27155 photo 27155_27555 uh 27555_28215 which 28215_28575 is 28575_29255 a 29255_29535 bunch 29535_29915 of 29915_30715 seems 30715_31295 like 31295_31515 dots 31515_32015 .
+*PAR:	so the person who overdrew it and a bunch of dots to fill it out on straight lines . 32355_36695
+%wor:	so 32355_32455 the 32455_32615 person 32615_32895 who 32895_33095 overdrew 33095_33515 it 33515_33715 and 33715_33935 a 33935_34075 bunch 34075_34195 of 34195_34355 dots 34355_34695 to 34695_35015 fill 35015_35415 it 35415_35535 out 35535_35695 on 35695_35915 straight 35915_36195 lines 36195_36695 .
+*PAR:	inside this photo are &-uh two women one man and a horse at different distances from the start of the photo . 37275_45855
+%wor:	inside 37275_37795 this 37795_38015 photo 38015_38295 are 38295_38955 uh 38955_39935 two 39935_40095 women 40095_40455 one 40455_40915 man 40915_41235 and 41235_41415 a 41415_41535 horse 41535_41895 at 41895_42895 different 42895_43315 distances 43315_43775 from 43775_44195 the 44195_44555 start 44555_44995 of 44995_45215 the 45215_45355 photo 45355_45855 .
+*PAR:	&-uh the photo is of a farm &-uh I wanna say in the early [/] early eighteen hundreds in either England or new England or some part of the americas . 46755_60715
+%wor:	uh 46755_47235 the photo 47235_47595 is 47595_47935 of 47935_48275 a 48275_48635 farm 48635_49195 uh 49195_50955 I 50955_51775 wanna 51775_51935 say 51935_52195 in 52195_52575 the 52575_52975 early 52975_54295 early 54295_54375 eighteen 54375_54655 hundreds 54655_54995 in 54995_55855 either 55855_56435 England 56435_56915 or 56915_57655 new 57655_58715 England 58715_59095 or 59095_59615 some 59615_59835 part 59835_60035 of 60035_60135 the 60135_60215 americas 60215_60715 .
+*PAR:	&-uh the person closest to the front to the viewer is &-uh a young woman who is holding two books . 62075_73815
+%wor:	uh 62075_62555 the 62555_62955 person 62955_63735 closest 63735_64375 to 64375_65075 the 65075_65875 front 65875_67575 to 67575_67855 the 67855_67995 viewer 67995_68335 is 68335_69355 uh 69355_70175 a 70175_71175 young 71175_71395 woman 71395_71735 who 71735_72515 is 72515_72675 holding 72675_73035 two 73035_73315 books 73315_73815 .
+@Eg:	farm
+*INV:	and that's your time perfect . 74115_75255
+%wor:	and 74115_74155 that's 74155_74415 your 74415_74535 time 74535_74755 perfect 74755_75255 .
+*INV:	no questions for that one . 77135_78355
+%wor:	no 77135_77175 questions 77175_77475 for 77475_77695 that 77695_77855 one 77855_78355 .
+*PAR:	okay . 78695_79195
+%wor:	okay 78695_79195 .
+*INV:	so you can just leave that over there . 79255_80775
+%wor:	so 79255_79275 you 79275_79415 can 79415_79575 just 79575_79775 leave 79775_79955 that 79955_80115 over 80115_80275 there 80275_80775 .
+*INV:	so here's your second photo . 81075_82675
+%wor:	so 81075_81455 here's 81455_81655 your 81655_81775 second 81775_82175 photo 82175_82675 .
+*PAR:	mhm .
+*INV:	and go ahead . 83255_84355
+%wor:	and 83255_83735 go 83735_83855 ahead 83855_84355 .
+@Bg:	embrace
+*PAR:	okay &-uh so the second photo is again printed on a standard sheet of paper . 85235_90355
+%wor:	okay 85235_85915 uh 85915_86415 so 86415_86495 the 86495_86675 second 86675_86915 photo 86915_87275 is 87275_87615 again 87615_87995 printed 87995_88375 on 88375_88755 a 88755_89015 standard 89015_89415 sheet 89415_89695 of 89695_89855 paper 89855_90355 .
+*PAR:	this time it doesn't take up the entire page but rather &-uh it seems like there's <one and a half inch gap on> [//] <oh pardon me> [//] two inch gap on either side of &-uh the top and bottom . 90165_102685
+%wor:	this 90165_90585 time 90585_90925 it 90925_91085 doesn't 91085_91365 take 91365_91585 up 91585_91705 the 91705_91865 entire 91865_92185 page 92185_92625 but 92625_92865 rather 92865_93185 uh 93185_93725 it 93725_93745 seems 93745_93925 like 93925_94145 there's 94145_94665 one 94665_96025 and 96025_96185 a 96185_96225 half 96225_96445 inch 96445_96645 gap 96645_97005 on 97005_97245 oh 97245_97625 pardon 97625_97845 me 97845_98045 two 98045_98345 inch 98345_98525 gap 98525_98805 on 98805_98985 either 98985_99245 side 99245_99645 of 99645_100145 uh 100145_100665 the 100665_101125 top 101125_102025 and 102025_102185 bottom 102185_102685 .
+*PAR:	&-uh a <one inch gap on the right-hand side> [//] <pardon me> [//] one centimeter gap on the right-hand side and the two centimeter gap on the left-hand side . 102675_110955
+%wor:	uh 102675_102835 a 102835_103075 one 103075_103295 inch 103295_103475 gap 103475_103755 on 103755_103895 the 103895_104015 righthand 104015_104415 side 104415_104755 pardon 104755_105535 me 105535_105655 one 105655_105915 centimeter 105915_106315 gap 106315_106695 on 106695_106835 the 106835_106935 righthand 106935_107315 side 107315_107635 and 107635_108755 the 108755_108895 two 108895_109115 centimeter 109115_109475 gap 109475_109855 on 109855_109975 the 109975_110095 lefthand 110095_110455 side 110455_110955 .
+*PAR:	&-uh this photo looks like it was drawn mostly with dots but also some lines . 111875_119455
+%wor:	uh 111875_112075 this 112075_112415 photo 112415_112815 looks 112815_113355 like 113355_113975 it 113975_114515 was 114515_115075 drawn 115075_115735 mostly 115735_116555 with 116555_116875 dots 116875_117335 but 117335_118275 also 118275_118615 some 118615_118955 lines 118955_119455 .
+*PAR:	&-uh the photo shows a man and a woman at equal distances from the viewer &-um as well as a woman &-uh at a greater distance from the viewer . 120165_132885
+%wor:	uh 120165_120645 the photo 120645_120985 shows 120985_121485 a 121485_121805 man 121805_122005 and 122005_122245 a 122245_122385 woman 122385_122625 at 122625_123985 equal 123985_124305 distances 124305_124705 from 124705_125065 the 125065_125265 viewer 125265_125525 um 125525_126525 as 126525_128445 well 128445_128705 as 128705_128945 a 128945_129105 woman 129105_129405 uh 129405_130285 at 130285_130905 a 130905_131145 greater 131145_131525 distance 131525_132005 from 132005_132245 the 132245_132385 viewer 132385_132885 .
+*PAR:	&-uh from left to right there is the woman that's furthest away . 134125_138065
+%wor:	uh 134125_134885 from 134885_135305 left 135305_135565 to 135565_135765 right 135765_135965 there 135965_136285 is 136285_136525 the 136525_136705 woman 136705_136945 that's 136945_137185 furthest 137185_137565 away 137565_138065 .
+*PAR:	the man who's slightly closer than the other woman . 138775_141655
+%wor:	the 138775_138895 man 138895_139235 who's 139235_139715 slightly 139715_140035 closer 140035_140475 than 140475_140835 the 140835_140975 other 140975_141155 woman 141155_141655 .
+*PAR:	&-uh picture appears to be taking place inside +/. 142635_145675
+%wor:	uh 142635_142995 picture 142995_143775 appears 143775_144175 to 144175_144275 be 144275_144375 taking 144375_144575 place 144575_144935 inside 144935_145675 +/.
+@Eg:	embrace
+*INV:	that's your time okay perfect . 145975_147235
+%wor:	that's 145975_145995 your 145995_146095 time 146095_146335 okay 146335_146735 perfect 146735_147235 .
+*INV:	no questions about that one either . 147595_148935
+%wor:	no 147595_147695 questions 147695_147975 about 147975_148175 that 148175_148295 one 148295_148435 either 148435_148935 .
+*INV:	all right . 149175_150755
+%wor:	all 149175_150255 right 150255_150755 .
+*INV:	here's the last one so . 150495_151695
+%wor:	here's 150495_150615 the 150615_150735 last 150735_150955 one 150955_151195 so 151195_151695 .
+*INV:	same thing . 151755_152275
+%wor:	same 151755_151775 thing 151775_152275 .
+*INV:	tell me what you see there . 152275_153255
+%wor:	tell me 152275_152375 what 152375_152495 you 152495_152615 see 152615_152755 there 152755_153255 .
+@Bg:	bridge
+*PAR:	okay &-uh I see a picture printed on a standard piece of paper . 154275_158375
+%wor:	okay 154275_154355 uh 154355_154875 I 154875_155115 see 155115_155395 a 155395_155795 picture 155795_156255 printed 156255_156695 on 156695_156975 a 156975_157155 standard 157155_157435 piece 157435_157735 of 157735_157875 paper 157875_158375 .
+*PAR:	&-um again standard piece of paper &-uh as it would be held normally . 158575_165495
+%wor:	um 158575_158915 again 158915_160755 standard 160755_162395 piece 162395_162655 of 162655_162795 paper 162795_163055 uh 163055_163915 as 163915_164375 it 164375_164475 would 164475_164615 be 164615_164755 held 164755_164995 normally 164995_165495 .
+*PAR:	so the long side is facing up-down . 165515_167035
+%wor:	so 165515_165555 the 165555_165695 long 165695_165915 side 165915_166115 is 166115_166255 facing 166255_166535 updown 166535_167035 .
+*PAR:	the short side is facing horizontally . 167235_168895
+%wor:	the 167235_167335 short 167335_167695 side 167695_167935 is 167935_168075 facing 168075_168395 horizontally 168395_168895 .
+*PAR:	&-uh the photo does not take up the full page . 169995_173095
+%wor:	uh 169995_170395 the 170395_170855 photo 170855_171515 does 171515_171755 not 171755_171975 take 171975_172175 up 172175_172295 the 172295_172415 full 172415_172595 page 172595_173095 .
+*PAR:	there's about a one centimeter gap on the top . 173175_175295
+%wor:	there's 173175_173275 about 173275_173455 a 173455_173595 one 173595_173815 centimeter 173815_174155 gap 174155_174555 on 174555_174675 the 174675_174795 top 174795_175295 .
+*PAR:	a three centimeter gap on the bottom . 175355_177235
+%wor:	a 175355_175435 three 175435_175755 centimeter 175755_176135 gap 176135_176495 on 176495_176615 the 176615_176735 bottom 176735_177235 .
+*PAR:	a two centimeter gap on the right and a two and a half centimeter gap on the left-hand side . 177155_182475
+%wor:	a 177155_177435 two centimeter 177435_177795 gap 177795_178215 on 178215_178355 the 178355_178435 right 178435_178635 and 178635_179035 a 179035_179335 two 179335_179555 and 179555_179675 a 179675_179735 half 179735_179895 centimeter 179895_180255 gap 180255_180675 on 180675_181015 the 181015_181335 lefthand 181335_181975 side 181975_182475 .
+*PAR:	&-uh this photo looks like it's drawn <exclusively with lines> [//] almost exclusively with lines . 183295_189675
+%wor:	uh 183295_183615 this 183615_183855 photo 183855_184115 looks 184115_184375 like 184375_184535 it's 184535_184715 drawn 184715_185015 exclusively 185015_185695 with 185695_185995 lines 185995_186355 almost 186355_188295 exclusively 188295_188935 with 188935_189175 lines 189175_189675 .
+*PAR:	&-uh there seems to be some parts that are shaded in . 189795_193355
+%wor:	uh 189795_190075 there 190075_191315 seems 191315_191555 to 191555_191695 be 191695_191815 some 191815_191995 parts 191995_192255 that 192255_192415 are 192415_192535 shaded 192535_192855 in 192855_193355 .
+*PAR:	and the parts that are not shaded in look like points . 193515_195875
+%wor:	and 193515_193595 the 193595_193775 parts 193775_194015 that 194015_194155 are 194155_194235 not 194235_194495 shaded 194495_194755 in 194755_194955 look 194955_195135 like 195135_195375 points 195375_195875 .
+*PAR:	&-uh the picture is in black and white . 197025_200505
+%wor:	uh 197025_197565 the 197565_197985 picture 197985_198965 is 198965_199405 in 199405_199565 black 199565_199845 and 199845_200005 white 200005_200505 .
+*PAR:	and it shows four people &-uh gender ambiguous underneath and beyond a bridge with a background of a grain silo . 200825_214405
+%wor:	and 200825_201805 it 201805_202065 shows 202065_202745 four 202745_205005 people 205005_205725 uh 205725_206385 gender 206385_206745 ambiguous 206745_207565 underneath 207565_208325 and 208325_210265 beyond 210265_210965 a 210965_211245 bridge 211245_211645 with 211645_212185 a 212185_212345 background 212345_212685 of 212685_213225 a 213225_213545 grain 213545_213905 silo 213905_214405 .
+@Eg:	bridge
+*INV:	okay . 214845_215345
+%wor:	okay 214845_215345 .
+*INV:	that was great . 215825_217125
+%wor:	that 215825_216485 was 216485_216625 great 216625_217125 .
+@End

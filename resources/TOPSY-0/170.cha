@@ -1,0 +1,19 @@
+@UTF8
+@PID:	11312/a-00086617-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	170, audio
+@Comment:	no gems yet
+@Comment:	Batchalign 0.7.7-alpha.4, ASR Engine rev
+@End
+I: This is the t l i interview topsy subject one seven zero. Here's your first photo. And your minute begins now.
+S: So there's three people in the picture. Like the women in the front was holding two books. And then the guy in the back is assumes like a farmer or something. And there's a horse on the left. And there's another lady lying attached not attached. Like lying on the tree. Seems like she's pregnant. She's looking above the sky. And like seems like wondering something. And going back to the first lady who's holding the book. She's looking on her left side which is looking towards where the lady's the other lady lying on the tree. But I don't know what she's thinking. She's probably wondering why she's there. But the other guy who is on the back with the horse. He was looking on the left with his right hand pointing to the land I guess he's wondering like the weather or like what's he's gonna plant on the land.
+I: It's wonderful. There's your minute. Here's your second photo. And your minute begins now.
+S: So there's two people in the image. But there's also like a photo on the back of his lady on it. It looks like art I don't know. The guy was with short hair. And he his facial expression looks a little bit happy like a little bit angry ish and the lady you know White was seems like she's like persuading him like it's like it feels like he's really angry. He's about to do something. And she's like stopping him. She's like literally stopping him by holding like putting her arm around him. And like his her whole facial is like. Don't do it. Please don't do it. Something like that. Yeah I think that's all I get from the image. She yeah he's he looked pretty upset. And she's just calm but trying to stop him. Yeah is what i got. And i guess.
+I: There's your minute.
+S: He seems like a couple perfect.
+I: Here is your third and final photo. And your minute begins now.
+S: Oh wow. So there's it. Looks like a bridge. There's a lady on the bridge. And it looks like such a hot day because the sun looks so bright. And there's a couple people on the boat I believe that's a boat under the bridge I don't know what they're doing. But it seems like they're busy doing something on the boat. And then the lady on the bridge was looking down on them wondering I don't know if she's looking at me but wondering what they're doing. And then there's a high building beside the bridge on the left. And yeah there's nothing there. But on the boat it looks like there's a guy who is standing the rest was seems like holding the boat. The other guy was just standing there with both his arm around his waisting.

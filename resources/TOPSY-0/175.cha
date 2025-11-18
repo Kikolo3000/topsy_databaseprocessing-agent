@@ -1,0 +1,18 @@
+@UTF8
+@PID:	11312/a-00086622-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	175, audio
+@Comment:	no gems yet
+@Comment:	Batchalign 0.7.7-alpha.4, ASR Engine rev
+@End
+I: This is the t l i interview autopsy. Subject one seven five. Here's your first photo. And your minute begins now.
+S: There's a lady staring off into the distance. She's holding a book. She's dressed in a blouse and a dress. And she has the book open to. She has two books actually. There's another woman also staring off into the distance. She looks like she might be pregnant or something. She's wearing a bonnet or a head scarf thing. There's also a man in the field who is with a horse. And he looks like he's also staring off in the distance. There's what looks to be a barn or a house. A couple houses. There's a field with rows that are look to be like. He might be best planting the field. There's some trees. It's daylight. There's a big tree behind the woman with the bonnet who's looking off into the there we go.
+I: Here you go.
+S: Oh sorry. There's a man and a good looking woman. She's holding him maybe possibly holding him back kind of thing mhm and he's staring off into the distance. She's looking at him. She's wearing a white shirt. He's wearing a dress shirt. She's got a wrist some kind of bracelet on her hair's done up like it looks like it's from the fifties. She has something in her hair I don't know. There's also another woman in the background. I don't know what she's doing. It's hard to make out. There's a pole. There's a couple poles in the background. And that's about it. Her hair her nail.
+I: There's your minute. Thank you very much. Here's your third and final photo. And your minute begins now okay.
+S: There's a sun shining. A woman looking out into the water. She's on a bridge. There's also a building in the background. The three windows below the bridge. There's another house with three windows in the side in the front. And then there's a man looking into what appears to be a little boat. And he's in the water as well. There's seven little nicks or little drops in the bridge. The other part of the design. Yeah I don't know.
+I: There's your minute beautiful. Thank you.

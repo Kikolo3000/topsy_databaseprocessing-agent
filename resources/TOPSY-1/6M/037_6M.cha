@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/a-00082727-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	037_6M, audio
+@Comment:	this file has been checked for ASR accuracy
+@Comment:	Batchalign 0.7.6-alpha.4, ASR Engine rev. Latest review 8 December 2024 by CMU AY.
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview topsy subject zero three seven. Activity has been previously described. Also six month follow up. Here's your first photo. And your minute begins now.
+S: Okay so this is a black and white picture that is a man and a woman at the front. The man has like curled hair kind of thing. He has like a little lick or whatever at the front on his forehead. He's looking towards the left. And he's leaning forward a little. He's wearing a button-up shirt with like a collar. He's kind of smiling but not really. And then the woman's on his right. She's really pretty. Her hair's also curled. And it's like really fancy. And then she has like thin eyebrows kind of. And she's looking towards the man. And she's grabbing onto him. Her left hand is like holding onto the man's right shoulder. It looks like her nails are painted. And she's got like a black bracelet or something. She's wearing a white shirt. And in the background there's another lady. I don't know if it's like through a window or a painting or something. But she's sitting down. Her legs are crossed. It looks like she's looking down but it's not very clear. And then on the right of the picture like top right there's some kind of
+I: Sorry.
+S: .
+I: No. Follow up questions. Here is your next photo. And your minute begins now.
+S: This is also a black and white picture. There's a bridge in the middle. And there's this lady or at least it looks like a lady standing at it. She's leaning on the side of the bridge. Like both of her arms are straight. And the she's like holding onto the rail or something. And she's looking down. And then under the bridge there are four men. Three of them are carrying like sacks of something on their backs. And then one of them wearing a striped shirt has his hands on his hips. And he's looking at them. They're coming out of a boat from the water going towards a building that has like windows or something. I think they're those are windows. There's three windows. And it's like a shed or something for the bigger building on the left that also has three windows at the like top. And then there's a sun on the like top right. You can see the
+I: There's your minute. No follow up questions. And here's your third and final photo. And your minute it begins no.
+S: Okay this one's also a black and white picture. It looks like farmland. At the front on the left there's a girl looking towards the right. Her hair is in a braid. She's holding books and wearing a button-up shirt with like a white collar. It kind of looks like lace. I'm not sure. And then there's like a little bow at the front. And she's holding two books. Behind her there's a man, a shirtless man with a horse. Looks like a white horse. And he's like directing him or something. And then on the far right leaning against the tree there's another woman. She has like a bandana or something over her hair. And her hands are just resting on top of her stomach. And her stomach looks a little big so she might be pregnant. She's wearing like a really long dress because you can't see the hem of it. And it goes all the way to the ground. And she's looking towards the left. There's your minute.
+I: And once again no follow up questions. Thank you.

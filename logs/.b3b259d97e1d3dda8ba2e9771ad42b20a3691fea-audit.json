@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/kike/Documents/VS Projects/topsy_databaseprocessing-agent/logs/.b3b259d97e1d3dda8ba2e9771ad42b20a3691fea-audit.json",
+    "files": [
+        {
+            "date": 1763498314768,
+            "name": "/home/kike/Documents/VS Projects/topsy_databaseprocessing-agent/logs/mcp-puppeteer-2025-11-18.log",
+            "hash": "f962186ec017ba3c5d1cdfe76ff374a38e81a41f3d0046ca45e3e29eb058895c"
+        }
+    ],
+    "hashType": "sha256"
+}

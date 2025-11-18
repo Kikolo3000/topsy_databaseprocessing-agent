@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/a-00082904-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	155, audio
+@Comment:	Batchalign 0.7.6-alpha.1, ASR Engine rev. Latest review 3 December 2024 by CMU AY.
+@Comment:	this file has been checked for ASR accuracy
+@Bg:	farm
+@Eg:	farm
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@End
+I: This is the TLI interview for wow. Participant one three eight at baseline. So that's your first photo. And your minute starts now.
+S: It seems like a scene from a farm on like the frontier maybe in the eighteen hundreds. There's a a woman in the foreground on the left-hand side. She's holding two books. She has braided hair, probably dark like hair. She's wearing a dress with a large collar and a ribbon. In the background and middle ground there's a shirtless man with a horse that's hooked up to most likely some sort of plow or other agricultural device. And on the right hand side in the middle ground there is a woman possibly pregnant leaning against a tree. She's wearing a loose robe with a kind of scarf thing over her head. Also in the middle ground and somewhat to the background
+I: Time okay perfect. That was awesome. So do the same thing okay. And here's your second photo okay. Go ahead.
+S: Alright this photo or picture is of two people a man and a woman. The man is on the left-hand side. A woman is on the right-hand side. They look like they're from probably between the forties and sixties, somewhere in there. They're maybe between mid to late twenties to early forties in age. The woman has black hair that's done up with makeup and lipstick wearing a white shirt. The man is just wearing a plain collared shirt. And his hair is slicked back a bit and done up as well. The woman is holding onto the man. And the they're both looking off towards the left-hand side although the woman is looking at the man. In the background it looks like there's advertisements of some sort potentially.
+I: Okay perfect awesome. So your last photo here okay. And go ahead.
+S: It seems like some sort of bridge scene above the water maybe around a harbor area. There's a boat at the bottom left-hand corner of the shot with people hauling some sort of cargo out of it. There's a massive castle or building of some sort that is taking up the a large portion of the left-hand side of the frame. It has maybe like a thatched roof or something and might be made out of stone or something. There's a woman on a bridge that goes cuts across the the shot. She's looking over the bridge into the water. And there's a black sun in the top right-hand corner of the picture radiating.
+I: Okay perfect.

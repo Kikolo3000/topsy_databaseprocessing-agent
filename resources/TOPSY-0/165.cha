@@ -1,0 +1,18 @@
+@UTF8
+@PID:	11312/a-00086612-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	165, audio
+@Comment:	no gems yet
+@Comment:	Batchalign 0.7.7-alpha.4, ASR Engine rev
+@End
+I: This is the t l i interview topsy subject one six five alright. Here's your first photo. And your minute begins now.
+S: The picture looks on the foreground of the picture. There's a lady with two books holding them by her side. She's looking and in the background it's a man with a horse by his side. Looks like is on a farm. And to the far right hand side is a woman. She looks pregnant holding her hands to her stomach maybe on the belly resting on some what looks like a wall. On top of the picture is like a white cloud. And then there's possibly a band which looks like a building on the farm in the background of same picture okay.
+I: Alright. There's your minute. Thank you very much. Here's your second photo. And your minute begins now.
+S: The picture depicts a man and a woman. The woman was trying to get the man's attention. But it seems the man is looking another way. The man is holding I mean the woman is holding the man by his arm. The woman is wearing a white shirt while the man is wearing something that looks like a black shirt in the background. There is another lady kind sitting down trying to buckle her shoe. And yeah. Possibly both of them have an issue in the past. And the man is trying to ignore the woman and not wanting to give her attention. But the man seems interested and really want to get the woman's attention I think she has some makeup on with some eyelashes there right there yeah. And yeah with color hair both of them have similar hairstyle in.
+I: A way. But the woman has more full hair than the is your minute. Thank you very much. And here's your third and final photo. And your time begins now.
+S: The picture kind of shows what I see in a movie possibly like. It's a bridge. And a woman on top of the bridge looking downwards into the bridge. And then on top of the picture is like a ray of sunshine shining very bright. Also at the bottom of the bridge is something that looks like a building. And it seems like maybe ahum or something. Possibly rain is falling. And a lot of people are trying to take off under the sheet I could see some guys holding umbrella or something. And yeah there's a building there right there with what looks like Acs outside of the building. And.
+I: And there's your minute. Thank you very much. We're all done I don't really know what.

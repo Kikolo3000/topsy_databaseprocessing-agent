@@ -1,0 +1,23 @@
+@UTF8
+@PID:	11312/a-00082725-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	030_6M, audio
+@Comment:	this file has been checked for ASR accuracy
+@Comment:	Batchalign 0.7.6-alpha.4, ASR Engine rev. Latest review 8 December 2024 by CMU AY.
+@Bg:	embrace
+@Eg:	embrace
+@Bg:	bridge
+@Eg:	bridge
+@Bg:	farm
+@Eg:	farm
+@End
+I: This is the TLI interview autopsy. Subject zero three zero six month. Follow up activity has been previously described. Here's your first photo. And your minute begins now.
+S: Okay so there's a oh I think it's James Dean looking dude with the lady who's kind of hugging his kind of front chest as James Dean here is looking away. So it seems like she's trying to convince him of something. And in the background there's another lady. So I don't know where he could be. But she doesn't seem like she's dressed very well. Not covered at all. I mean she's got something on, it looks like, but not much. It looks like they're standing outside of a house or some kind of no it's definitely a residence of some person. And it looks like James Dean's leaving. Other than that I mean it looks old time. It looks like it's from the fifties and
+I: Perfect. There's a minute I have no follow up questions. But I'll move on. Here's your second photo. And your minute begins okay now.
+S: So there's a lady standing on a bridge right beside a really tall factory. It looks like there's some guys out beside the factory loading probably coal out of a boat into the factory there. And it's like some steam power type deal going on here. And then there's a sun that seems like it's blacked out because it seems like all yeah it seems like an eclipse is going on here with the lady standing on some kind of arched bridge there. There's a boat in some kind of riverway. There's only a couple windows on this factory here. Hmm I don't see any oh there's one building over to the right here in this. But it seemed oh they might be in the middle of a town in this picture then.
+I: Time I have no follow up questions. So we'll move on. There's your third and final photo. And your minute begins now.
+S: It's some kind of farming family for sure. There's a lady leaned up against a a tree. She looks like she's kind of pregnant. This looks like it's maybe like early nineteen hundreds, eighteen like high eighteens or something. There's a couple big barns off in the distance with some rows of some kind of crop. I'm not sure what that seems like. It's on a lake. That sounds awesome. There's a lady kind of standing in the foreground with some guy with his back towards the picture standing behind a horse that looks like it might have a plow on it. And so this guy's probably at work. It looks like there's a guy plowing in the background too. It looks like it's a really rocky hill wherever they are. And there's your minute. Once again I have no follow up questions. Thank you alright.

@@ -1,0 +1,20 @@
+@UTF8
+@PID:	11312/a-00086631-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|TOPSY|INV|||||Investigator|||
+@ID:	eng|TOPSY|PAR|||||Participant|||
+@Media:	185, audio
+@Comment:	no gems yet
+@Comment:	Batchalign 0.7.7-alpha.4, ASR Engine rev
+@End
+I: This is the top c t l I subject one eighty five. Here's your first photo. And the minute begins now.
+S: Okay I see a farmland with multiple people. There is a man that appears to be working the land with the horse. There is a woman that may be pregnant looking on over the land. There is another woman in the foreground holding books. Which means that she they might be a family so it could be like a mother looking on over her husband. As they work as he works the field. So it's out in the country. There's fields that are being plowed there's a building in the background that could be a barn or a house. I see in the background also some hills. There could be a lake or a pond. The horse itself has harnesses on which just might be pulling equipment. Let's see here.
+I: There's your minute.
+S: Yeah.
+I: Here's your second photo. And your minute begins now.
+S: Okay. Appears to be a couple a man and a woman. The man appears to be looking off into a different direction away from the woman. And the woman is paying attention to what the man is looking off to more concerned about the man. And possibly he's not paying attention to her. It's hard to say what setting they're in I do see a window in the background. And a poster. Possibly like a pinup girl. The time period seems to be maybe like in the forties or fifties. The couple themselves are relatively young I would say maybe mid thirties early forties let's see here. The woman's yeah holding onto the man as he's looking away suggesting that he might be trying to get away. And she's worried about him leaving her. That's basically all i got.
+I: Beauty there's your minute yes sweet. Here's during the final photo. And your minute begins now.
+S: Okay. So this drawing's a bit different. It's compared to the others. This one's very just drawn with a lot of like straight lines. It appears at the bottom of the photo. There is potentially like a men working on a dock or appear. There's a building. And there appears to be water with a boat in it. That might be hauling stuff stuff off of the boat. Above is potentially a bridge with what may be a young woman standing on it. In the top left of the photo there is a large building very tall with three windows at the top. There is a sun that is shooting rays in different directions.
+I: There's your minutes. Thank you very much. We're all done.
